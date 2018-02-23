@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <James_Alphabetize>
+            <active>true</active>
+            <codePool>local</codePool>
+        </James_Alphabetize>
+    </modules>
+</config>
